@@ -19,6 +19,8 @@ My model of La-Z-boy™'s Wire Legend*
 
 *Colors and pin positions are for my chair only. I don't know if La-Z-boy™ kept connector connections standard for all models. Verify all the wires by checking for voltage on each when using the remote. 
 
+![image](https://user-images.githubusercontent.com/1077409/177370569-12d916c7-b79c-4dd0-9d10-65e96f4f9efe.png)
+
 ![image](https://user-images.githubusercontent.com/1077409/177362685-c1e7bc7b-215f-44ad-945a-0333c1477421.png)
 
 This is my prototype for testing. I ordered plugs so I can design an enclosure that can be installed by attaching it inline with the controller and base.
