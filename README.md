@@ -1,7 +1,7 @@
 # lazy_boy_controller
 
 Home Auotmation adaptor for a La-Z-boy™ chair. This first version only reclines. I didn't have enough of the right relays
-onhand to contol every function. This project requires 10 relays to control every function. My model of La-Z-boy™ (should I be using a 
+onhand to contol every function. This project requires 10 relays to control every function. My model of La-Z-boy™ 
 
 
 Wire Legend*
@@ -19,3 +19,5 @@ Wire Legend*
 
 *Colors and pin positions are for my chair only. I don't know if La-Z-boy™ kept connector connections standard for all models. 
 Verify all the wires by checking for voltage on each when using the remote. 
+
+![image](https://user-images.githubusercontent.com/1077409/177362685-c1e7bc7b-215f-44ad-945a-0333c1477421.png)
